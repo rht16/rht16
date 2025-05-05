@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit kumar</h1>
 <h3 align="center">I'm a aspiring full stack web developer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.</h3>
 
-- 👨‍💻 All of my projects are available at [https://rohit16.netlify.app/](https://rohit16dev.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://rohit16dev.netlify.app/](https://rohit16dev.netlify.app/)
 
 - 📫 How to reach me **rohitkrrt@gmail.com**
 
